@@ -5,3 +5,7 @@
 body {
   background: #e9e8e8;
 }
+
+.nav-li {
+  @apply text-base text-black font-bold hover:text-orange-900 hover:underline underline-offset-2 decoration-[1px] cursor-pointer;
+}

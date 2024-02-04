@@ -4,7 +4,7 @@ import Home from "./Pages/Home";
 
 function App() {
   return (
-    <div>
+    <div className="font-bodyFont">
       <Navbar />
       <Home />
     </div>
